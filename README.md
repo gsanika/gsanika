@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-🔹 Computer Engineering student passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
+🔹 Computer Engineering student passionate about **AI, ML, and Full-Stack Development**.  
 🔹 Currently exploring **Computer Vision, NLP, and intelligent systems**.  
 🔹 Building projects using **Python, Java, Node.js, and modern web technologies**.  
 🔹 Always curious about solving **real-world problems with technology**.  
