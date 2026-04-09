@@ -5,7 +5,6 @@
 </p>
 
 ---
-
 ## 💡 About Me
 
 🔹 Computer Engineering student passionate about **AI, ML, and Full-Stack Development**.  
