@@ -58,22 +58,6 @@ sanika = {
 
 ---
 
-## 🏅 Badges & Achievements
-
-<div align="center">
-
-![Kaggle](https://img.shields.io/badge/Kaggle-Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Python%205★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Android%20Dev-3DDC84?style=for-the-badge&logo=google&logoColor=white)
-![Internshala](https://img.shields.io/badge/Internshala-AI%20Certified-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
 ## 🧠 Currently Learning
 
 <div align="center">
