@@ -10,16 +10,11 @@
 
 ## 💡 About Me
 
-```python
-sanika = {
-    "role"     : "Aspiring AI/ML Developer & Full-Stack Enthusiast",
-    "degree"   : "BE Computer Engineering (Final Year)",
-    "passion"  : ["AI", "ML", "Computer Vision", "NLP", "Full-Stack"],
-    "building" : "Intelligent systems that solve real-world problems",
-    "learning" : ["Deep Learning", "NLP", "OpenCV", "AI Applications"],
-    "goal"     : "Turn data into decisions, ideas into products 🚀"
-}
-```
+🔹 Computer Engineering student passionate about **AI, ML, and Full-Stack Development**
+🔹 Currently exploring **Computer Vision, NLP, and intelligent systems**
+🔹 Building projects using **Python, Java, Node.js, and modern web technologies**
+🔹 Always curious about solving **real-world problems with technology**
+🔹 Goal: *Turn data into decisions, ideas into products* 🚀
 
 ---
 
@@ -84,9 +79,6 @@ sanika = {
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsanika&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gsanika&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
