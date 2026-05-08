@@ -7,9 +7,9 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=cd23co66&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/cd23co66)
-[![GitHub followers](https://img.shields.io/github/followers/cd23co66?label=Followers&style=flat-square&color=7c3aed)](https://github.com/cd23co66)
-[![Email](https://img.shields.io/badge/Email-sbgalgunde%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:sbgalgunde@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=gsanika&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/gsanika)
+[![GitHub followers](https://img.shields.io/github/followers/gsanika?label=Followers&style=flat-square&color=7c3aed)](https://github.com/gsanika)
+[![Email](https://img.shields.io/badge/Email-galgundesanika%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:galgundesanika@gmail.com)
 
 </div>
 
@@ -128,16 +128,16 @@ class SanikaGalgunde:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=cd23co66&theme=radical&hide_border=true&background=0d0d1a&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideNums=ffffff&sideLabels=a78bfa&dates=888888" height="160" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=gsanika&theme=radical&hide_border=true&background=0d0d1a&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideNums=ffffff&sideLabels=a78bfa&dates=888888" height="160" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cd23co66&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&ring_color=8b5cf6" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd23co66&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&text_color=ffffff" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=gsanika&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&ring_color=8b5cf6" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsanika&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&text_color=ffffff" height="160" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cd23co66&theme=react-dark&hide_border=true&bg_color=0d0d1a&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gsanika&theme=react-dark&hide_border=true&bg_color=0d0d1a&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -147,8 +147,8 @@ class SanikaGalgunde:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sbgalgunde%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbgalgunde@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-cd23co66-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cd23co66)
+[![Email](https://img.shields.io/badge/Email-galgundesanika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galgundesanika@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gsanika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gsanika)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanika%20Galgunde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanika-babruvan-galgunde)
 [![Replit](https://img.shields.io/badge/Replit-galgundesanika-6666FF?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@galgundesanika)
 
