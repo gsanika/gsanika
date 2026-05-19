@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:0d9488&height=200&section=header&text=Sanika%20Galgunde&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20BE%20Computer%20Engineering&descSize=15&descAlignY=58&descFontColor=ccbbff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+from+scratch+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+ML+Pipelines+%F0%9F%A7%A0;Python+%7C+Node.js+%7C+OpenCV+%7C+MongoDB+%F0%9F%9A%80;Turning+data+into+decisions%2C+ideas+into+products+%E2%9C%A8" alt="Typing SVG"/>
-
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gsanika&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/gsanika)
