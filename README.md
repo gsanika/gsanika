@@ -24,7 +24,7 @@ class SanikaGalgunde:
     location   = "Maharashtra, India 🇮🇳"
     email      = "galgundesanika@gmail.com"
 
-    currently_building  = ["Computer Vision apps", "ML pipelines", "Full-stack REST APIs"]
+    currently_building  = ["Computer Vision apps", "ML pipelines"]
     currently_learning  = ["Deep Learning", "NLP & Transformers", "AI-based Applications"]
     ask_me_about        = ["Python", "OpenCV", "Scikit-Learn", "Node.js", "MongoDB"]
     goal                = "Turn data into decisions. Ideas into products. 🚀"
@@ -72,23 +72,6 @@ class SanikaGalgunde:
 
 ---
 
-## 📦 Featured Projects
-
-<div align="center">
-
-| # | Project | Description | Stack | Status |
-|---|---------|-------------|-------|--------|
-| 🎯 | **Face Recognition System** | Real-time detection & recognition with live camera | `Python` `OpenCV` `Kivy` | ![Active](https://img.shields.io/badge/-Active-1d9e75?style=flat-square) |
-| 🧬 | **Disease Prediction ML** | End-to-end ML pipeline with EDA & model evaluation | `Scikit-Learn` `Pandas` `Seaborn` | ![Active](https://img.shields.io/badge/-Active-1d9e75?style=flat-square) |
-| 🌐 | **Student Management API** | Full CRUD REST API with auth & MongoDB schemas | `Node.js` `Express` `MongoDB` | ![Active](https://img.shields.io/badge/-Active-1d9e75?style=flat-square) |
-| 📱 | **Android Task Manager** | Native task app with SQLite local persistence | `Java` `Android SDK` `SQLite` | ![Done](https://img.shields.io/badge/-Done-7c3aed?style=flat-square) |
-| 📊 | **EDA Notebook Collection** | Multi-dataset analysis with publication-ready plots | `Pandas` `NumPy` `Matplotlib` | ![Ongoing](https://img.shields.io/badge/-Ongoing-d97706?style=flat-square) |
-| 🗣️ | **NLP Text Classifier** | TF-IDF vectorization → classification pipeline | `Python` `Scikit-Learn` `NLTK` | ![Active](https://img.shields.io/badge/-Active-1d9e75?style=flat-square) |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -117,16 +100,6 @@ class SanikaGalgunde:
 
 ---
 
-## 📈 Learning Roadmap
-
-```
-Machine Learning     ████████████░░░  In progress  →  pipelines, ensembles, cross-val
-Computer Vision      ██████████░░░░░  Building     →  real-time detection, tracking
-NLP                  ████████░░░░░░░  Exploring    →  text classification, embeddings
-Deep Learning        ██████░░░░░░░░░  Diving in    →  CNNs, RNNs, Transformers
-AI Applications      ███████░░░░░░░░  Creating     →  end-to-end production systems
-```
-
 ---
 
 ## 🐍 Contribution Snake
@@ -153,43 +126,6 @@ AI Applications      ███████░░░░░░░░  Creating    
 [![Replit](https://img.shields.io/badge/Replit-galgundesanika-6666FF?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@galgundesanika)
 
 </div>
-
----
-
-## ⚙️ Snake Animation Setup
-
-To enable the contribution snake, create `.github/workflows/snake.yml` in your `gsanika` repo:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: gsanika
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Generate Contribution Snake → Run workflow**. ✅
 
 ---
 
