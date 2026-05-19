@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:0d9488&height=200&section=header&text=Sanika%20Galgunde&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20BE%20Computer%20Engineering&descSize=15&descAlignY=58&descFontColor=ccbbff" width="100%"/>
 
@@ -11,7 +11,7 @@
 </div>
 
 ---
-<div align="center">
+<div align="left">
 ## `Who Am I`
 
     name       = "Sanika Babruvan Galgunde"
