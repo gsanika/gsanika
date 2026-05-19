@@ -11,11 +11,9 @@
 </div>
 
 ---
+<div align="center">
+## `Who Am I`
 
-## `$ whoami`
-
-```python
-class SanikaGalgunde:
     name       = "Sanika Babruvan Galgunde"
     role       = "Aspiring AI/ML Developer · Full-Stack Enthusiast"
     education  = "BE Computer Engineering — Final Year"
@@ -26,7 +24,7 @@ class SanikaGalgunde:
     currently_learning  = ["Deep Learning", "NLP & Transformers", "AI-based Applications"]
     ask_me_about        = ["Python", "OpenCV", "Scikit-Learn", "Node.js", "MongoDB"]
     goal                = "Turn data into decisions. Ideas into products. 🚀"
-```
+</div>
 
 ---
 
