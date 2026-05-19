@@ -12,7 +12,7 @@
 
 ---
 <div align="left">
-## `Who Am I`
+    Who Am I
 
     name       = "Sanika Babruvan Galgunde"
     role       = "Aspiring AI/ML Developer · Full-Stack Enthusiast"
@@ -26,7 +26,6 @@
     goal                = "Turn data into decisions. Ideas into products. 🚀"
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
