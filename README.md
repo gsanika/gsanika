@@ -91,14 +91,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cd23co66&theme=tokyo-night" />
-</p>
-
----
-
 <p align="center">
   ⭐️ From <a href="https://github.com/cd23co66">Sanika Galgunde</a>
 </p>
