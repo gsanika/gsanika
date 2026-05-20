@@ -9,8 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a Third Year Diploma Student in Computer Science at SVERI
-- 🔭 I'm currently working on **Hostel Online Leave Form System** and **Cloth Store Management Website**
+- 🎓 I'm a Second Year BE Student in Computer Science at PCCOER
 - 🌱 I'm currently learning **Machine Learning, Deep Learning, NLP, LangChain & Transformers**
 - 💬 Ask me about **Java, Python, MERN Stack, Firebase, Django, AI/ML & Android Development**
 - 📫 How to reach me: **sbgalgunde@gmail.com**
