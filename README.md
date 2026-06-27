@@ -13,8 +13,7 @@
 - 🌱 I'm currently learning **Machine Learning, Deep Learning, NLP, LangChain & Transformers**
 - 💬 Ask me about **Java, Python, MERN Stack, Firebase, Django, AI/ML & Android Development**
 - 📫 How to reach me: **sbgalgunde@gmail.com**
-- ⚡ Fun fact: **I love building AI-powered applications and solving real-world problems with technology**
-
+- 
 ---
 
 ### 🚀 Projects
@@ -57,21 +56,16 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cd23co66&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd23co66&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cd23co66&show_icons=true&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd23co66&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cd23co66&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cd23co66&theme=tokyonight" height="180em"/>
+</p>---
 
 ### 🌐 Connect with Me
 
