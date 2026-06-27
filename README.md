@@ -11,7 +11,7 @@
 
 - 🎓 I'm a Second Year BE Student in Computer Science at PCCOER
 - 🌱 I'm currently learning **Machine Learning, Deep Learning, NLP, LangChain & Transformers**
-- 💬 I know **Java, Python, MERN Stack, Firebase, Django, AI/ML & Android Development**
+- 💬 I know **Java, Python, MERN Stack, Firebase,MongoDB, AI/ML & Android Development**
 - 📫 Gmail: **sbgalgunde@gmail.com**
 - 
 ---
