@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cd23co66&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gsanika&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **Machine Learning, Deep Learning, NLP, LangChain & Transformers**
 - 💬 I know **Java, Python, MERN Stack, Firebase,MongoDB, AI/ML & Android Development**
 - 📫 Gmail: **sbgalgunde@gmail.com**
-- 
+
 ---
 
 ### 🚀 Projects
@@ -65,12 +65,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsanika&theme=tokyonight" height="180em"/>
-</p>---
+</p>
+
+---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/cd23co66" target="_blank">
+  <a href="https://github.com/gsanika" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 
@@ -86,14 +88,5 @@
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/cd23co66">Sanika Galgunde</a>
+  ⭐️ From <a href="https://github.com/gsanika">Sanika Galgunde</a>
 </p>
-
-
-
-
-
-
-
-
-
