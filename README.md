@@ -56,12 +56,12 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsanika&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsanika&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+# 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=gsanika&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gsanika&layout=compact&theme=radical" height="160" />
+</p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gsanika&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
