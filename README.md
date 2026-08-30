@@ -60,7 +60,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=gsanika&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=gsanika&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" 
     height="180" 
     alt="Sanika's GitHub Stats"
   />
@@ -80,7 +80,6 @@
     alt="Sanika's GitHub Streak"
   />
 </p>
-
 ---
 
 ### 🌐 Connect with Me
