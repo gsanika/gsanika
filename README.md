@@ -60,24 +60,23 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=gsanika&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" 
-    height="180" 
-    alt="Sanika's GitHub Stats"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=gsanika&show_icons=true&theme=radical" 
+    height="180"
+    alt="GitHub Stats"
   />
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsanika&layout=compact&theme=radical&hide_border=true" 
- height="180" 
- alt="Sanika's Top Languages"
-/>
-
+  <img 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gsanika&layout=compact&theme=radical" 
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=gsanika&theme=tokyonight&hide_border=true" 
-    height="180" 
-    alt="Sanika's GitHub Streak"
+    height="180"
+    alt="GitHub Streak"
   />
 </p>
 ---
