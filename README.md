@@ -56,29 +56,17 @@
 
 ---
 
+
 # 📊 GitHub Analytics
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=gsanika&show_icons=true&theme=radical" 
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gsanika&layout=compact&theme=radical" 
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=gsanika&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gsanika&layout=compact&theme=radical" height="160" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gsanika&theme=tokyonight&hide_border=true" 
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gsanika&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 ---
 
 ### 🌐 Connect with Me
@@ -102,3 +90,4 @@
 <p align="center">
   ⭐️ From <a href="https://github.com/gsanika">Sanika Galgunde</a>
 </p>
+  
