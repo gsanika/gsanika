@@ -91,19 +91,4 @@
   ⭐️ From <a href="https://github.com/gsanika">Sanika Galgunde</a>
 </p>
   
-### 🏆 Achievements & Badges
 
-<p align="center">
-  <a href="https://github.com/gsanika">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.kaggle.com/sanikagalgunde">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learner-blueviolet?style=for-the-badge" alt="AI and ML Learner" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge" alt="Open Source Contributor" />
-</p>
